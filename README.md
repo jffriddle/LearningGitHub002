@@ -1,3 +1,4 @@
+The following is the read me file descriptions this is a change in the files text.
 <!-- 
   <<< Author notes: Header of the course >>> 
   Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
